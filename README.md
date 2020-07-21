@@ -1,6 +1,6 @@
 # Parallel-Park
 
-[In this notebook] I modified the starter code that strings together a sequence of tasks to successfully parallel park 
+[In this notebook](https://github.com/Arina-W/Parallel-Park/blob/master/ParallelParking.ipynb) I modified the starter code that strings together a sequence of tasks to successfully parallel park 
 my simulated car in a line of other cars, without hitting any of the other cars.
 
 # Review
